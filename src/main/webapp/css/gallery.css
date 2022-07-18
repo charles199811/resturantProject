@@ -1,0 +1,29 @@
+
+h1, p{
+    margin:0;
+}
+
+.cover{
+    padding:50px 100px 0px;
+}
+
+.column{
+    background-color: white;
+    width: 33.33%;
+    min-height: 250px;
+    float: left;
+    
+}
+.wrapper{
+    margin: 30px;
+    padding: 30px;
+    background-color: coral;
+}
+
+.wrapper h1, .wrapper p{
+    margin-bottom: 20px;
+}
+
+.wrapper img{
+    width: 100%;
+}

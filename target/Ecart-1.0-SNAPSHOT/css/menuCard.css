@@ -1,0 +1,15 @@
+.card-body .price{
+    text-align: left;
+    color: red;
+}
+
+.mt-3 .btn .btn-dark{
+    border-radius: 10px;
+    background: #ffbe33;
+    color: white;
+    cursor: grab;
+    
+}
+
+
+
